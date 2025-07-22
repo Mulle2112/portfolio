@@ -55,6 +55,51 @@ E-HELPER is a mobile application designed to support the academic process at Wol
 📂 _Source code available privately upon request_  
 📧 Email [mulatudamtie21@gmail.com](mailto:mulatudamtie21@gmail.com) to request access or a demo.
 
+## 📌 Project 3: Taxi Calling Management System (TCMS)  
+**Role:** Full-stack Developer (Team Project)  
+**Type:** BSc Graduation Project – Wolaita Sodo University  
+**Tech Stack:** Android (Java), PHP, SQL Server, GPS, XML, Windows Server
+
+**Description:**  
+Taxi Calling Management System (TCMS) is a dual-platform solution (Android + Web) designed to automate the process of booking and dispatching taxis in the Wolaita Sodo area. It allows passengers to book a taxi anytime using a mobile app and enables administrators to assign taxis efficiently using a web dashboard. The system incorporates GPS to locate passengers and direct taxis, with a fare calculation feature based on distance traveled.
+
+**Key Features:**  
+- 📱 **Android App (Client Side):**
+  - User registration and login
+  - Pickup and destination selection via GPS
+  - Request taxi functionality with time scheduling
+  - Real-time taxi availability status
+- 🌐 **Web Admin Panel:**
+  - Assign available taxis to incoming requests
+  - Register and manage driver/passenger profiles
+  - Calculate fare based on tariff and route
+  - Manage user comments and feedback
+- 🔔 Notification system for ride status updates
+- 🗂 SQL Server backend for storing user, trip, and fare data
+
+**Motivation & Impact:**  
+- Improved access to taxis for passengers, especially during night hours or in emergencies  
+- Reduced reliance on manual taxi-booking methods  
+- Increased transparency and efficiency in taxi dispatching  
+- Inspired by transportation network systems like Uber, adapted to local needs
+
+**Challenges Addressed:**  
+- Manual booking delays and poor coverage during off-peak hours  
+- Lack of accessible transport for disabled individuals  
+- Unreliable fare negotiation and safety concerns for passengers  
+
+**Team Members:**  
+- Mulatu Berie  
+- Fikadu Mengistu  
+- Syoum Yimer  
+- Mulu Wondimu  
+- Alemitu Ayenew  
+
+📅 Completed: December 2017  
+📂 _Source code available privately upon request_  
+📧 Email [mulatudamtie21@gmail.com](mailto:mulatudamtie21@gmail.com) to request access or a demo.
+
+
 
 **Repo Access:**  
 This repository is private due to business sensitivity. Please email [mulatudamtie21@gmail.com](mailto:mulatudamtie21@gmail.com) to request access or a detailed walkthrough.
