@@ -20,7 +20,36 @@ A complete backend platform that manages the delivery and monitoring of video ad
 ![System Diagram](./1.jpeg)
 📸 More visuals available upon request
 
-## 📌 Project 2: E-HELPER – Student Support Mobile App  
+## 📌 Project 2: Analysis of Voice Masking Algorithms  
+**Role:** Researcher & Author  
+**Type:** Master's Thesis – Warsaw University (2023)  
+**Tech Stack:** Python, PyTorch, NumPy, Librosa, Matplotlib, FFmpeg, Jupyter Notebook
+
+**Description:**  
+This research focuses on improving **Voice Conversion (VC)** systems by integrating **attention mechanisms** into **Variational Autoencoder (VAE)-based models**. The work explores how attention-based architectures can eliminate the need for feature alignment, enhance the naturalness of converted speech, and reduce computational complexity. It compares state-of-the-art VC techniques such as Gaussian Mixture Models (GMM), Deep Neural Networks (DNN), and Generative Adversarial Networks (GANs).
+
+**Key Features & Contributions:**  
+- 🧠 Proposed an **attention-augmented VAE** model for voice conversion  
+- 📊 Evaluated performance using **Mean Opinion Score (MOS)**, **Signal-to-Noise Ratio**, and **Mel-Cepstral Distortion**  
+- ⚡ Reduced **feature alignment overhead** with attention-based sequence modeling  
+- 🎙 Designed experiments with **LSTM, CNN, and Transformer-based encoders**  
+- 📈 Delivered performance improvements over classical VC approaches  
+- 🔍 Comprehensive **analysis of GMM, GAN, Autoencoders, and Transformer architectures**
+
+**Challenges Addressed:**  
+- Over-smoothing and robotic-sounding speech in classical VC models  
+- High training data requirements and poor generalization to unseen voices  
+- Computational inefficiency in feature alignment  
+
+**Impact:**  
+- Advanced **privacy-preserving voice masking** techniques  
+- Demonstrated improved speech quality and intelligibility  
+- Provided insights for next-gen **deep learning VC systems**  
+
+📧 Email [mulatudamtie21@gmail.com](mailto:mulatudamtie21@gmail.com) for a research discussion or collaboration.
+
+
+## 📌 Project 3: E-HELPER – Student Support Mobile App  
 **Role:** Lead Developer  
 **Type:** Academic Project (Wolaita Sodo University)  
 **Tech Stack:** Java (Android), SQLite, FTP, XML, Android Studio
@@ -55,7 +84,7 @@ E-HELPER is a mobile application designed to support the academic process at Wol
 📂 _Source code available privately upon request_  
 📧 Email [mulatudamtie21@gmail.com](mailto:mulatudamtie21@gmail.com) to request access or a demo.
 
-## 📌 Project 3: Taxi Calling Management System (TCMS)  
+## 📌 Project 4: Taxi Calling Management System (TCMS)  
 **Role:** Full-stack Developer (Team Project)  
 **Type:** BSc Graduation Project – Wolaita Sodo University  
 **Tech Stack:** Android (Java), PHP, SQL Server, GPS, XML, Windows Server
