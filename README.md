@@ -17,7 +17,7 @@ A complete backend platform that manages the delivery and monitoring of video ad
 - 🔐 Developed tools to securely push content to devices and sync playback
 
 **Screenshots & Architecture:**  
-![System Diagram]()  
+![System Diagram](./1.jpeg)
 📸 More visuals available upon request
 
 **Repo Access:**  
