@@ -1,3 +1,9 @@
+# Mulatu Damtie – Project Portfolio
+
+This repository contains selected projects I have worked on during my academic and professional career. Projects demonstrate experience in backend systems, mobile applications, research, and full-stack development.
+
+---
+
 ## 📌 Project 1: In-Taxi Video Ad Platform  
 **Role:** Chief Technology Officer (CTO)  
 **Company:** A'GO Poland (Startup business /member of this startup company)  
@@ -118,7 +124,7 @@ Taxi Calling Management System (TCMS) is a dual-platform solution (Android + Web
 - Unreliable fare negotiation and safety concerns for passengers  
 
 **Team Members:**  
-- Mulatu Berie  
+- Mulatu Berie (leader)  
 - Fikadu Mengistu  
 - Syoum Yimer  
 - Mulu Wondimu  
