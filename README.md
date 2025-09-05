@@ -129,6 +129,52 @@ Taxi Calling Management System (TCMS) is a dual-platform solution (Android + Web
 📧 Email [mulatudamtie21@gmail.com](mailto:mulatudamtie21@gmail.com) to request access or a demo.
 
 
+## 📌 Project 5: C++ Scientific Calculator (Student Project)
+**Role:** Developer  
+**Type:** Academic / First-year C++ Project (2015)  
+**Tech Stack:** C++ (console application)  
+**Public Project:** ✅  
+
+**Description:**  
+A console-based scientific calculator that performs basic arithmetic and scientific functions without external libraries. One of my first programming projects during university.
+
+**Key Features:**  
+- Addition, Subtraction, Multiplication, Division  
+- Power (x^y), Square Root, Logarithm  
+- Trigonometric functions (sine, cosine, tangent) implemented manually  
+- Factorial computation  
+- Menu-driven interface for ease of use  
+
+**Impact:**  
+- Introduced core programming concepts like loops, conditionals, functions, and classes  
+- Strengthened understanding of algorithmic problem solving  
+
+📂 Source code: public, available in this repository  
+
+## 📌 Project 6: C++ Student Management System
+**Role:** Developer  
+**Type:** Academic / First-year C++ Project (2015)  
+**Tech Stack:** C++ (console application)  
+**Public Project:** ✅  
+
+**Description:**  
+A console application to manage student records including ID, name, and GPA. Implemented using arrays and classes to practice object-oriented programming.
+
+**Key Features:**  
+- Add, view, and search students by ID  
+- Menu-driven interface  
+- Data management with arrays and class objects  
+
+**Impact:**  
+- Reinforced OOP concepts in C++  
+- Early exposure to practical data management and console-based UI  
+
+📂 Source code: public, available in this repository  
+
+---
 
 **Repo Access:**  
-This repository is private due to business sensitivity. Please email [mulatudamtie21@gmail.com](mailto:mulatudamtie21@gmail.com) to request access or a detailed walkthrough.
+Professional and research projects are private due to business and research sensitivity.  
+Student projects (Scientific Calculator and Student Management System) are public and fully available in this repository.  
+
+📧 Email: mulatudamtie21@gmail.com for inquiries or demos.
