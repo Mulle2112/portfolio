@@ -1,6 +1,6 @@
 ## 📌 Project 1: In-Taxi Video Ad Platform  
 **Role:** Chief Technology Officer (CTO)  
-**Company:** A'GO Poland (Startup)  
+**Company:** A'GO Poland (Startup business /member of this startup company)  
 **Duration:** Dec 2024 – Present  
 **Tech Stack:** Java, Spring Boot, REST APIs, SQL Server, FFmpeg, Windows, Git
 
